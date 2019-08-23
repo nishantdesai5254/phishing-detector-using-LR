@@ -8,13 +8,6 @@ You are expected to write the code for a binary classification model (phishing w
 
 Questions to be answered with analysis :
 
-Write the code for a binary classification model (phishing website or not) using Python Scikit-Learn that trains on the data and calculates the accuracy score on the test data.
-Use one or more of the classification algorithms to train a model on the phishing website dataset.
-Analysis Tasks to be performed:
-
-Initiation :
-Begin by creating a new ipynb file and load the dataset in it.
-
 
 
 *Exercise 1 :
